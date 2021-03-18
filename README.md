@@ -1,5 +1,5 @@
-## php_login
+# PHP Login System
 
 #### PHP Login system using PHP and MySQL Database
 
-[PHP Login](http://weather0.heliohost.org/)
+[Demo](http://weather0.heliohost.org/)
